@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "126940835532",
+    "firebase_url": "https://projem-c58bd.firebaseio.com",
+    "project_id": "projem-c58bd",
+    "storage_bucket": "projem-c58bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126940835532:android:4282d3dc0de2235f571c69",
+        "android_client_info": {
+          "package_name": "com.example.projem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126940835532-koi2phsu53hhbu7f9qba3tdtktc9qodi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4ITo6aJd8226K1lEDN1INS1yLwb1xmA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126940835532-koi2phsu53hhbu7f9qba3tdtktc9qodi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
